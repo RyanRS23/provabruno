@@ -15,5 +15,13 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanRS23/provabruno.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RyanRS23/provabruno/issues"
+  },
+  "homepage": "https://github.com/RyanRS23/provabruno#readme"
 }
