@@ -1,7 +1,8 @@
-import health from '../src/Controller/healthController.js';
-import calculadora from '../src/Controller/calculadoraController.js';
-
+import livrariaController from '../src/Controller/livrariaController.js';
+import clienteController from '../src/Controller/clienteController.js';
 export default function rotear(api) {
-    api.use(health);
-    api.use(calculadora);
+
+    api.use(livrariaController);
+    api.use(clienteController);
+
 }
